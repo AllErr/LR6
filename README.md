@@ -1,4 +1,3 @@
-# LR6
 ## Лабораторная работа №6
 
 ## Цель работы:
@@ -126,7 +125,7 @@
 
     <img src="/screens/Screenshot_14.png" width="300">
 
-    Осталась одна ветка - master
+    Осталась одна ветка - master.
 
     <img src="/screens/Screenshot_15.png" width="1000">
 
@@ -156,14 +155,14 @@
 
     <img src="/screens/Screenshot_20.png" width="450">
 
-8. Была создана ветка для отчета
+8. Была создана ветка для отчета.
 
     ```sh
     git checkout -b report
     ```
     <img src="/screens/Screenshot_21.png" width="350">
 
-    Был загружен незаконченный отчет
+    Был загружен незаконченный отчет.
 
     <img src="/screens/Screenshot_22.png" width="350">
 
